@@ -1,6 +1,6 @@
-# UCLRep
+## UCLRep
 Custom Repository of UCL.
-
+Contributors: Carl Zhang, Yongkai Li (Fuzhou University, China), Chenxi Zhang (UCL)
 Using Husky Robot for simulator.
 
 ## Discription
