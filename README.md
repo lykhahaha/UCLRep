@@ -1,5 +1,5 @@
 ## UCLRep
-Custom Repository of UCL.
+Custom Repository of UCLRep.
 
 Contributors: Carl Zhang, Yongkai Li (Fuzhou University, China), Chenxi Zhang (UCL)
 
